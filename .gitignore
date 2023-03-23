@@ -1,5 +1,3 @@
-C:\Users\rodrigo\Desktop\curso-django-projeto1\venv
-.mypy_cache
 # Django #
 *.log
 *.pot
@@ -85,7 +83,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+venv
 # mkdocs documentation
 /site
 
